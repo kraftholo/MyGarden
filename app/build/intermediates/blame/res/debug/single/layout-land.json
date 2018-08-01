@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/layout-land/activity_plant_detail.xml",
+        "source": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/src/main/res/layout-land/activity_plant_detail.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/res/merged/debug/layout-land/activity_plant_detail.xml",
+        "source": "/home/shobhit/Documents/Udacity/MyGarden/app/src/main/res/layout-land/activity_plant_detail.xml"
+    }
+]

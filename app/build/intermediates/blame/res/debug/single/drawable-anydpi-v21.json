@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/add_accent.xml",
+        "source": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/add_accent.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/arrow_back_white.xml",
+        "source": "/home/shobhit/Documents/Udacity/MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/arrow_back_white.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/add_accent.xml",
+        "source": "/home/shobhit/Documents/Udacity/MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/add_accent.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/add_white.xml",
+        "source": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/add_white.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/water_drop_blue.xml",
+        "source": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/water_drop_blue.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/water_drop_white.xml",
+        "source": "/home/shobhit/Documents/Udacity/MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/water_drop_white.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/arrow_back_white.xml",
+        "source": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/arrow_back_white.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/calendar_bg.xml",
+        "source": "/home/shobhit/Documents/Udacity/MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/calendar_bg.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/cut_white.xml",
+        "source": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/cut_white.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/water_drop_blue.xml",
+        "source": "/home/shobhit/Documents/Udacity/MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/water_drop_blue.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/cut_white.xml",
+        "source": "/home/shobhit/Documents/Udacity/MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/cut_white.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/calendar_bg.xml",
+        "source": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/calendar_bg.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/water_drop_white.xml",
+        "source": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/water_drop_white.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/add_white.xml",
+        "source": "/home/shobhit/Documents/Udacity/MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/add_white.xml"
+    }
+]
