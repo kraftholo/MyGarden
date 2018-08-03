@@ -1,1 +1,6 @@
-[]
+[
+    {
+        "merged": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/res/merged/debug/xml/plant_widget_provider_info.xml",
+        "source": "/home/shobhit/Documents/Udacity/MyGarden/app/src/main/res/xml/plant_widget_provider_info.xml"
+    }
+]

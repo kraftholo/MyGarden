@@ -88,12 +88,12 @@
         "source": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_layout_snackbar.xml"
     },
     {
-        "merged": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
-        "source": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_navigation_item_separator.xml"
-    },
-    {
         "merged": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
         "source": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_navigation_item_separator.xml"
     },
     {
         "merged": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
@@ -108,12 +108,12 @@
         "source": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/layout/activity_plant_detail.xml",
-        "source": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/src/main/res/layout/activity_plant_detail.xml"
-    },
-    {
         "merged": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
         "source": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/layout/activity_plant_detail.xml",
+        "source": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/src/main/res/layout/activity_plant_detail.xml"
     },
     {
         "merged": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
@@ -178,6 +178,10 @@
     {
         "merged": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/res/merged/debug/layout/plant_widget_provider.xml",
+        "source": "/home/shobhit/Documents/Udacity/MyGarden/app/src/main/res/layout/plant_widget_provider.xml"
     },
     {
         "merged": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
