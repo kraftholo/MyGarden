@@ -324,6 +324,10 @@
         "source": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_dialog_title_material.xml"
     },
     {
+        "merged": "/home/shobhit/Documents/Udacity/MyGarden/app/build/intermediates/res/merged/debug/layout/widget_grid_view.xml",
+        "source": "/home/shobhit/Documents/Udacity/MyGarden/app/src/main/res/layout/widget_grid_view.xml"
+    },
+    {
         "merged": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
         "source": "/home/shobhit/Documents/Udacity/AdvancedAndroid_MyGarden/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_activity_chooser_view.xml"
     },

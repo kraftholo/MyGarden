@@ -18,7 +18,6 @@
             android:label="@string/title_activity_my_garden">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
@@ -38,6 +37,10 @@
                 android:name="android.appwidget.provider"
                 android:resource="@xml/plant_widget_provider_info" />
         </receiver>
+
+        <service
+            android:name=".GridWidgetService"
+            android:permission="android.permission.BIND_REMOTEVIEWS" />
     </application>
 
 </manifest>

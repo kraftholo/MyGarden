@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="widget_margin">0dp</dimen>
+    <string name="garden_empty">Garden Is Empty !</string>
     <style name="Base.TextAppearance.AppCompat.Button">
         <item name="android:textSize">@dimen/abc_text_size_button_material</item>
         <item name="android:textAllCaps">true</item>

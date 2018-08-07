@@ -702,6 +702,7 @@
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="days">days</string>
     <string name="extra">New plant</string>
+    <string name="garden_empty">Garden Is Empty !</string>
     <string name="hours">hrs</string>
     <string name="minutes">mins</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
